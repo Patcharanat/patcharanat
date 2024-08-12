@@ -1,16 +1,15 @@
-## Hi there 👋
+My name is Patcharanat, I'm a Data Engineer and interested in
+- Data Solutions / Data Architecture
+- Data Science
+- Machine learning
+- MLOps / ML system
 
-<!--
-**Patcharanat/patcharanat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀Personal Projects
+- My highlight project
+    - [Ecommerce-Invoice-End-to-end](https://github.com/Patcharanat/Ecommerce-Invoice-End-to-end)
+    <!-- - [MLOps-ml-system](https://github.com/Patcharanat/MLOps-ml-system) - *In progress . . .* -->
+- Check all my data projects [**here**](projects.md).
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫Contact Me
+- Email: patcha-ranat@outlook.com
+- LinkedIn: [Patcharanat P.](https://www.linkedin.com/in/patcharanat/)
