@@ -1,4 +1,4 @@
-My name is Patcharanat, I'm a Data Engineer and interested in
+### 👋 My name is Patcharanat, I'm a Data Engineer and interested in
 - Data Solutions / Data Architecture
 - Data Science
 - Machine learning
