@@ -7,7 +7,7 @@
 ### 🚀Personal Projects
 - My highlight project
     - [Ecommerce-Invoice-End-to-end](https://github.com/Patcharanat/Ecommerce-Invoice-End-to-end)
-    <!-- - [MLOps-ml-system](https://github.com/Patcharanat/MLOps-ml-system) - *In progress . . .* -->
+    - [MLOps-ml-system](https://github.com/Patcharanat/MLOps-ml-system)
 - Check all my data projects [**here**](projects.md).
 
 ### 📫Contact Me
